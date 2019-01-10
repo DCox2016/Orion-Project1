@@ -116,7 +116,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(152, 42);
             this.button1.TabIndex = 7;
-            this.button1.Text = "Show Stars";
+            this.button1.Text = "Show Names";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -126,7 +126,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(159, 42);
             this.button2.TabIndex = 8;
-            this.button2.Text = "Hide Stars";
+            this.button2.Text = "Hide Names";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
